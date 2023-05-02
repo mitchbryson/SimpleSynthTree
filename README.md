@@ -4,6 +4,7 @@ A python-based simulation model for generating synthetic tree point clouds.
 Source code associated with:
 
 M. Bryson, F. Wang and J. Allworth, "Using synthetic tree data in deep learning-based individual tree segmentation using LiDAR point clouds", Remote Sens. 2023, 15(9), 2380; https://doi.org/10.3390/rs15092380
+
 [https://www.mdpi.com/2072-4292/15/9/2380](https://www.mdpi.com/2072-4292/15/9/2380)
 
 ![](media/example_trees.png)
