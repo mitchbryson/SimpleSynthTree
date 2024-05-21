@@ -7,6 +7,8 @@ M. Bryson, F. Wang and J. Allworth, "Using synthetic tree data in deep learning-
 
 [https://www.mdpi.com/2072-4292/15/9/2380](https://www.mdpi.com/2072-4292/15/9/2380)
 
+Requires: numpy, trimesh and laspy (for las file export).
+
 ![](media/example_trees.png)
 
 ## About
